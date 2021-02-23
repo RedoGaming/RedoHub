@@ -57,6 +57,7 @@ end
 -- Counter Blox
 if game.PlaceId == 301549746 then
    loadstring(game:HttpGet(('https://pastebin.com/raw/JTZ2LyiS'),true))()
+   print"Counter Blox GUI Loaded."
 end
 
 -- Sharkbite
@@ -70,4 +71,10 @@ end
 if game.PlaceId == 625364452 then
    loadstring(game:HttpGet('https://gist.githubusercontent.com/RedoGaming/75558e81cbd858813732c088643e3110/raw/6b7798ea3ca33fcc8855db155085206db1fa06f1/nerf%2520fps%2520redo%2520hub'))()
    print"Nerf FPS GUI Loaded."
+end
+
+-- Polybattle
+if game.PlaceId == 4716045691 then
+   loadstring(game:HttpGet('https://gist.githubusercontent.com/RedoGaming/517cacd66359b2f13700b0fd4356dc49/raw/608ad0011824e8ee833983617bfd06d804179a55/polybattle%2520redo%2520hub'))()
+   print"Polybattle GUI Loaded."
 end
