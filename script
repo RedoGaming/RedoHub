@@ -79,3 +79,15 @@ if game.PlaceId == 4716045691 then
    loadstring(game:HttpGet('https://gist.githubusercontent.com/RedoGaming/517cacd66359b2f13700b0fd4356dc49/raw/608ad0011824e8ee833983617bfd06d804179a55/polybattle%2520redo%2520hub'))()
    print"Polybattle GUI Loaded."
 end
+
+-- Giant Survival
+if game.PlaceId == 4003872968 then
+   loadstring(game:HttpGet('https://gist.github.com/RedoGaming/3484dfe5ad42447a63205c95cdf5ee50'))()
+   print"Giant Survival GUI Loaded."
+end
+
+-- Bloxburg
+if game.PlaceId == 185655149 then
+   loadstring(game:HttpGet('https://gist.githubusercontent.com/RedoGaming/c6b6ea8531c5e732708ab83438bb33c5/raw/1d02f99bbd9f0ca96a84146ece94f376d5c67e42/bloxburg%2520redo%2520hub'))()
+   print"Bloxburg GUI Loaded."
+end
