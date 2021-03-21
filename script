@@ -82,7 +82,7 @@ end
 
 -- Giant Survival
 if game.PlaceId == 4003872968 then
-   loadstring(game:HttpGet('https://gist.github.com/RedoGaming/3484dfe5ad42447a63205c95cdf5ee50'))()
+   loadstring(game:HttpGet('https://gist.githubusercontent.com/RedoGaming/3484dfe5ad42447a63205c95cdf5ee50/raw/49bb93aac5d58e99e9b6e3069059c61354776ba1/giant%2520survival%2520redo%2520hub'))()
    print"Giant Survival GUI Loaded."
 end
 
